@@ -25,9 +25,7 @@ To support reproducibility, the supplementary file associated with our study is 
 
 If you use this dataset in your research, experiments, or publications, please cite the following paper:
 
-**Varun SK, Bollu TKR, Panwar S, Agarwal P, Lin CT, Antonakakis M, Zervakis M. *n-Cylindrical Symbolic Response, a Standalone and Synergistic Biomarker for Epilepsy Diagnosis on EEG Modality.*  
-IEEE Journal of Biomedical and Health Informatics, 2025.  
-doi: 10.1109/JBHI.2025.3635229**
+**Varun SK, Bollu TKR, Panwar S, Agarwal P, Lin CT, Antonakakis M, Zervakis M. *n-Cylindrical Symbolic Response, a Standalone and Synergistic Biomarker for Epilepsy Diagnosis on EEG Modality.* IEEE Journal of Biomedical and Health Informatics, 2025. doi: 10.1109/JBHI.2025.3635229**
 
 ### 📘 BibTeX
 ```bibtex
