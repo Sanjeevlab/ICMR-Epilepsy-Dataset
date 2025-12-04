@@ -21,5 +21,26 @@ To support reproducibility, the supplementary file associated with our study is 
 
 - [JBHI Supplementary File (PDF)](JBHI%20Supplementary.pdf)
 
+## 📄 Citation
+
+If you use this dataset in your research, experiments, or publications, please cite the following paper:
+
+**Varun SK, Bollu TKR, Panwar S, Agarwal P, Lin CT, Antonakakis M, Zervakis M.  
+*n-Cylindrical Symbolic Response, a Standalone and Synergistic Biomarker for Epilepsy Diagnosis on EEG Modality.*  
+IEEE Journal of Biomedical and Health Informatics, 2025.  
+doi: 10.1109/JBHI.2025.3635229**
+
+### 📘 BibTeX
+```bibtex
+@ARTICLE{11266890,
+  author={Varun, Sanjeev Kumar and Bollu, Tharun Kumar Reddy and Panwar, Siddharth and Agarwal, Puneet and Lin, Chin Teng and Antonakakis, Marios and Zervakis, Michalis},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={$n$-Cylindrical Symbolic Response, a Standalone and Synergistic Biomarker for Epilepsy Diagnosis on EEG Modality}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/JBHI.2025.3635229}
+}
 
 
