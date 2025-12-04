@@ -13,3 +13,10 @@ To support early access and reproducibility, a **representative subset** of the 
     - **Odd**: channels from the **right hemisphere** of the brain
 
 Please refer to the file naming and directory structure for details.
+
+
+## 📎 Supplementary Material
+- [Supplementary File (PDF)](JBHI Supplementary.pdf)
+
+
+
