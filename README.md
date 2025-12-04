@@ -16,7 +16,10 @@ Please refer to the file naming and directory structure for details.
 
 
 ## 📎 Supplementary Material
-- [Supplementary File (PDF)](JBHI Supplementary.pdf)
+
+To support reproducibility, the supplementary file associated with our study is provided below:
+
+- [JBHI Supplementary File (PDF)](JBHI%20Supplementary.pdf)
 
 
 
